@@ -1,0 +1,10 @@
+.menu{
+        max-width: 90px,
+}
+@media (max-width:900px){
+    .menu{
+        width: 80px;
+
+    }
+
+}
